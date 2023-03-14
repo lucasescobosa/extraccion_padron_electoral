@@ -1,0 +1,2 @@
+pypdf==3.5.2
+XlsxWriter==3.0.9
